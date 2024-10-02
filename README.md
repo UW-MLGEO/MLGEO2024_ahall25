@@ -13,3 +13,18 @@ When you clone the reopository, the command line output should look like the fol
   
   <img src="CloneRepoScreenshot.png"/>
 
+Now using the git commands is a bit tricky, follow the steps below for getting the environment.yml file from the JupyterHub interface to github.
+1. Navigate to the directory that now houses the repo and move the environment.yml file to this directory.
+2. Open a terminal shell in this directory and copy the following code
+    ```bash
+    git commit -m "Add environment.yml"
+    ```
+3. Now push the .yml file to github by copying the following code
+   ```bash
+    git push origin main
+    ```
+Note: The screenshot shows what to do if things get hairy.
+
+    <img src="GitCommandsScreenshot.png"/>
+
+Note: You may need to generate a personal toaken, this can be done by navigating to the settings tab on github, then to developer settings (last option on the sidebar), and finally generate a token (you need to check the repo checkbox if you are generating one to be used within JupyterHub)
