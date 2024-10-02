@@ -33,6 +33,10 @@ Note: The next screenshot shows what to do if things get hairy. If you update on
 
 Note: You may need to generate a personal toaken, this can be done by navigating to the settings tab on github, then to developer settings (last option on the sidebar), and finally generate a token (you need to check the repo checkbox if you are generating one to be used within JupyterHub)
 
+### To Run the Notebook
+Go to the notebook in the cloned repository, you can now run the notebook, either by hitting **shift enter** or pressing run in the top navigation bar.
+###
+
 ### My favorite Earth Science Topics are:
 1. Satellites, specifically GNSS
 2. Stratospheric Dynamics
