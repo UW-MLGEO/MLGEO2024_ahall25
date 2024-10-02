@@ -38,8 +38,8 @@ Note: You may need to generate a personal toaken, this can be done by navigating
 2. Stratospheric Dynamics
 3. the QBO (please see gif)
 4. Lenticular Clouds
-
-![]([https://example.com/path_to_your_image.gif](https://github.com/UW-MLGEO/MLGEO2024_ahall25/blob/main/qboGif.gif))
+   
+![Zonal Wind Anomaly](https://github.com/UW-MLGEO/MLGEO2024_ahall25/blob/main/qboGif.gif)
 
 The MIT license offers a streamlined, highly permissive framework that encourages widespread use, modification, and sharing of your code, with the only stipulation being proper attribution—making it perfect for fostering innovation and broad community collaboration.
 
