@@ -13,7 +13,7 @@ When you clone the reopository, the command line output should look like the fol
   
 <img src="CloneRepoScreenshot.png"/>
 
-Now using the git commands is a bit tricky, follow the steps below for getting the environment.yml file from the JupyterHub interface to github.
+Now using the git commands is a bit tricky, follow the steps below for getting the environment.yml file from the JupyterHub interface to github. A separate PDF HAS all of the successes and fails screenshots.
 1. Navigate to the directory that now houses the repo and move the environment.yml file to this directory.
 2. Open a terminal shell in this directory and copy the following code
     ```bash
